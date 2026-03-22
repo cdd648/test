@@ -34,3 +34,6 @@ tmp/
 # 缓存
 .cache/
 .npm/
+
+# 敏感文件（Token、密钥等）
+github
